@@ -112,6 +112,7 @@ export const FormFieldButton = styled.input`
   font-weight: bold;
 `;
 export const OauthButton = styled.div`
+  cursor:pointer;
   border-radius: 5px;
   text-align: center;
   padding: 10px;
